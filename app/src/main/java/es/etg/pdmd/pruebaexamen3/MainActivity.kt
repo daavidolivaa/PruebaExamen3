@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         const val EXTRA_NOMBRE = "nombre"
         const val EXTRA_APELLIDO = "nombre"
+        const val EXTRA_NUMERO = "nombre"
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
